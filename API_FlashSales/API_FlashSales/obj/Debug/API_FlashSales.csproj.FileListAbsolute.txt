@@ -1,0 +1,6 @@
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\API_FlashSales\API_FlashSales\bin\API_FlashSales.dll.config
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\API_FlashSales\API_FlashSales\bin\API_FlashSales.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\API_FlashSales\API_FlashSales\bin\API_FlashSales.pdb
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\API_FlashSales\API_FlashSales\obj\Debug\API_FlashSales.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\API_FlashSales\API_FlashSales\obj\Debug\API_FlashSales.dll
+C:\Users\Carlos\Documents\Visual Studio 2015\Projects\API_FlashSales\API_FlashSales\obj\Debug\API_FlashSales.pdb

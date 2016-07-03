@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="314072e2-0d23-4e70-ba7f-8892d9c63c3d" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:39390/FlashSalesService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="FlashSalesService.xsd" MetadataType="Schema" ID="1e76d485-59e8-4166-8507-79755c938c1f" SourceId="1" SourceUrl="http://localhost:39390/FlashSalesService.svc?xsd=xsd2" />
+    <MetadataFile FileName="Service1.wsdl" MetadataType="Wsdl" ID="94f425f9-35e0-440f-9e8a-ffcbe526d5e2" SourceId="1" SourceUrl="http://localhost:39390/FlashSalesService.svc?wsdl" />
+    <MetadataFile FileName="FlashSalesService1.xsd" MetadataType="Schema" ID="c950c8ff-d93e-4ab1-a1d9-69a7417cca54" SourceId="1" SourceUrl="http://localhost:39390/FlashSalesService.svc?xsd=xsd1" />
+    <MetadataFile FileName="FlashSalesService.disco" MetadataType="Disco" ID="a7dbd18e-0e6a-4d48-a5e7-45ec0ffd78e8" SourceId="1" SourceUrl="http://localhost:39390/FlashSalesService.svc?disco" />
+    <MetadataFile FileName="FlashSalesService2.xsd" MetadataType="Schema" ID="c955b915-f0dd-4e1a-97ac-23d7ef3c5f01" SourceId="1" SourceUrl="http://localhost:39390/FlashSalesService.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
